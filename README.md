@@ -12,4 +12,4 @@
 
 3. Make the position of the header `static` (the default positioning) when the screen is `640px` wide. The header design takes up a lot of room; I don't want it to stick to the top of a small screen and leave no room for the rest of my site.
 
-4. Included the `viewport` tag in all your HTML files, otherwise your media-queries won't function as expected on mobile devices.
+4. Included the `viewport` tag in all my HTML files, otherwise my media-queries wouldn't function as expected on mobile devices.
